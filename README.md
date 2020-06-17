@@ -1,4 +1,5 @@
-# AWP4
+STEPS FOLLOWED:
+
 $ Sudo apt-get update
 
 $ sudo apt-get install git
@@ -11,9 +12,13 @@ $ git clone https://github.com/bhargaviellandula87/AWP4.git
 
 
 Create and push three html files on linux using VI editor
+
 git add .
+
 git commit -m "add sample html files"
+
 Push files
+
 git push\
 
 TUTORIAL:
