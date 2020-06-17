@@ -1,12 +1,15 @@
 # AWP4
 $ Sudo apt-get update
+
 $ sudo apt-get install git
-$ git --version
-git version 2.17.1
-Step 2:
-Clone the repository on the linux machine using
+
+$ git --version:git version 2.17.1
+
+
+Clone the repository on the linux machine using:
 $ git clone https://github.com/bhargaviellandula87/AWP4.git
-Step 3:
+
+
 Create and push three html files on linux using VI editor
 git add .
 git commit -m "add sample html files"
